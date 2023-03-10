@@ -1,0 +1,282 @@
+[
+    {
+        "StudentName" : "Jack",
+        "StudentID" : "1",
+        "Course" : "MSC",
+        "Duration" : "2 Years",
+        "Interest" : ["Painting", "Dancing"]
+    },
+    {
+        "StudentName" : "Jill",
+        "StudentID" : "2",
+        "Course" : "MSC",
+        "Duration" : "2 Years",
+        "Interest" : ["Music", "Dancing"]
+    },
+    {
+        "StudentName" : "John",
+        "StudentID" : "3",
+        "Course" : "MCA",
+        "Duration" : "2 Years",
+        "Interest" : ["Singing", "Dancing"]
+    },
+    {
+        "StudentName" : "Jacky",
+        "StudentID" : "4",
+        "Course" : "MSC",
+        "Duration" : "2 Years",
+        "Interest" : ["Sketching", "Dancing"]
+    },
+    {
+        "StudentName" : "Jackie",
+        "StudentID" : "5",
+        "Course" : "MSC",
+        "Duration" : "2 Years",
+        "Interest" : ["Painting", "Dancing"]
+    },
+    {
+        "StudentName" : "Jimin",
+        "StudentID" : "6",
+        "Course" : "MSC",
+        "Duration" : "2 Years",
+        "Interest" : ["Painting", "Music"]
+    },
+    {
+        "StudentName" : "Jamuna",
+        "StudentID" : "7",
+        "Course" : "MSC",
+        "Duration" : "2 Years",
+        "Interest" : ["Cooking", "Dancing"]
+    },
+    {
+        "StudentName" : "Jerry",
+        "StudentID" : "8",
+        "Course" : "MCA",
+        "Duration" : "2 Years",
+        "Interest" : ["Rapping", "Dancing"]
+    },
+    {
+        "StudentName" : "Sam",
+        "StudentID" : "9",
+        "Course" : "MSC",
+        "Duration" : "2 Years",
+        "Interest" : ["Painting", "Dancing"]
+    },
+    {
+        "StudentName" : "Ram",
+        "StudentID" : "10",
+        "Course" : "MSC",
+        "Duration" : "2 Years",
+        "Interest" : ["Painting", "Dancing"]
+    },
+    {
+        "Student Name" : "Jaya",
+        "Student ID" : "11",
+        "Course" : "BCA",
+        "Duration" : "3 Years",
+        "Interest" : ["Cooking", "Dancing"]
+    },
+    {
+        "StudentName" : "Kavya",
+        "StudentID" : "12",
+        "Course" : "BSC",
+        "Duration" : "3 Years",
+        "Interest" : ["Singing", "Dancing"]
+    },
+    {
+        "StudentName" : "Ram",
+        "StudentID" : "13",
+        "Course" : "MSC",
+        "Duration" : "2 Years",
+        "Interest" : ["Painting", "Dancing"]
+    },
+    {
+        "StudentName" : "Raj",
+        "StudentID" : "14",
+        "Course" : "MSC",
+        "Duration" : "2 Years",
+        "Interest" : ["Painting", "Dancing"]
+    },
+    {
+        "StudentName" : "Sham",
+        "StudentID" : "15",
+        "Course" : "BCOM",
+        "Duration" : "2 Years",
+        "Interest" : ["Reading", "Dancing"]
+    },
+    {
+        "StudentName" : "Kamal",
+        "StudentID" : "16",
+        "Course" : "MSC",
+        "Duration" : "2 Years",
+        "Interest" : ["Painting", "Dancing"]
+    },
+    {
+        "StudentName" : "Komal",
+        "StudentID" : "17",
+        "Course" : "MTECH",
+        "Duration" : "2 Years",
+        "Interest" : ["Reading", "Dancing"]
+    },
+    {
+        "StudentName" : "Teju",
+        "StudentID" : "18",
+        "Course" : "BE",
+        "Duration" : "4 Years",
+        "Interest" : ["Reading", "Dancing"]
+    },
+    {
+        "StudentName" : "Tom",
+        "StudentID" : "19",
+        "Course" : "MSC",
+        "Duration" : "2 Years",
+        "Interest" : ["Painting", "Dancing"]
+    },
+    {
+        "StudentName" : "Anil",
+        "StudentID" : "20",
+        "Course" : "MCA",
+        "Duration" : "2 Years",
+        "Interest" : ["Painting", "Singing"]
+    },
+    {
+        "StudentName" : "Arun",
+        "StudentID" : "21",
+        "Course" : "MCA",
+        "Duration" : "2 Years",
+        "Interest" : ["Sketching", "Dancing"]
+    },
+    {
+        "StudentName" : "Amul",
+        "StudentID" : "22",
+        "Course" : "MSC",
+        "Duration" : "2 Years",
+        "Interest" : ["Travelling", "Dancing"]
+    },
+    {
+        "StudentName" : "Baby",
+        "StudentID" : "23",
+        "Course" : "MCA",
+        "Duration" : "2 Years",
+        "Interest" : ["Painting", "Cooking"]
+    },
+    {
+        "StudentName" : "Breck",
+        "StudentID" : "24",
+        "Course" : "MSC",
+        "Duration" : "2 Years",
+        "Interest" : ["Painting", "Travelling"]
+    },
+    {
+        "StudentName" : "Jaya",
+        "StudentID" : "25",
+        "Course" : "MSC",
+        "Duration" : "2 Years",
+        "Interest" : ["Painting", "Dancing"]
+    },
+    {
+        "StudentName" : "Lasya",
+        "StudentID" : "26",
+        "Course" : "BSC",
+        "Duration" : "3 Years",
+        "Interest" : ["Singing", "Dancing"]
+    },
+    {
+        "StudentName" : "Jordan",
+        "StudentID" : "27",
+        "Course" : "MCA",
+        "Duration" : "2 Years",
+        "Interest" : ["Writing", "Reading"]
+    },
+    {
+        "StudentName" : "Brenden",
+        "StudentID" : "28",
+        "Course" : "MSC",
+        "Duration" : "2 Years",
+        "Interest" : ["Travelling", "Dancing"]
+    },
+    {
+        "StudentName" : "Michel",
+        "StudentID" : "29",
+        "Course" : "MSC",
+        "Duration" : "2 Years",
+        "Interest" : ["Painting", "Dancing"]
+    },
+    {
+        "StudentName" : "Jackson",
+        "StudentID" : "30",
+        "Course" : "MSC",
+        "Duration" : "2 Years",
+        "Interest" : ["Travelling", "Dancing"]
+    },
+    {
+        "StudentName" : "Maya",
+        "StudentID" : "31",
+        "Course" : "MCA",
+        "Duration" : "2 Years",
+        "Interest" : ["SInging", "Dancing"]
+    },
+    {
+        "StudentName" : "Jimmy",
+        "StudentID" : "32",
+        "Course" : "MSC",
+        "Duration" : "2 Years",
+        "Interest" : ["Cooking", "Dancing"]
+    },
+    {
+        "StudentName" : "Priya",
+        "StudentID" : "33",
+        "Course" : "MSC",
+        "Duration" : "2 Years",
+        "Interest" : ["Painting", "Dancing"]
+    },
+    {
+        "StudentName" : "Pinky",
+        "StudentID" : "34",
+        "Course" : "MSC",
+        "Duration" : "2 Years",
+        "Interest" : ["Painting", "Dancing"]
+    },
+    {
+        "StudentName" : "Jasmine",
+        "StudentID" : "35",
+        "Course" : "MSC",
+        "Duration" : "2 Years",
+        "Interest" : ["Travelling", "Dancing"]
+    },
+    {
+        "StudentName" : "Rose",
+        "StudentID" : "36",
+        "Course" : "MCA",
+        "Duration" : "2 Years",
+        "Interest" : ["Cooking", "Dancing"]
+    },
+    {
+        "StudentName" : "Bubblu",
+        "StudentID" : "37",
+        "Course" : "MSC",
+        "Duration" : "2 Years",
+        "Interest" : ["Rapping", "Dancing"]
+    },
+    {
+        "StudentName" : "Janvi",
+        "StudentID" : "38",
+        "Course" : "MSC",
+        "Duration" : "2 Years",
+        "Interest" : ["Painting", "Dancing"]
+    },
+    {
+        "StudentName" : "Dimple",
+        "StudentID" : "39",
+        "Course" : "MSC",
+        "Duration" : "2 Years",
+        "Interest" : ["Singing", "Sketching"]
+    },
+    {
+        "StudentName" : "Virat",
+        "StudentID" : "40",
+        "Course" : "MSC",
+        "Duration" : "2 Years",
+        "Interest" : ["Cricket", "Acting"]
+    }
+]

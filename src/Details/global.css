@@ -1,0 +1,14 @@
+.mainBlock{
+    border: 2px solid black;
+    width: 200px;
+    height: 350px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.parentBlock{
+    display: flex;
+    justify-content: space-evenly;
+}
