@@ -1,12 +1,12 @@
 import React from 'react'
+import Nav2 from './Props/Nav2';
 
 const App= ()=>{
     return(
     <>
-    <div> App </div>
-    <h1> HAI </h1>
-    <p> 5+5 </p>
-    <h2> {2+2} </h2>
+    <Nav2 data=
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Labrador_on_Quantock_%282175262184%29.jpg/1200px-Labrador_on_Quantock_%282175262184%29.jpg" alt="" />
+    />
     </>
 )
     }

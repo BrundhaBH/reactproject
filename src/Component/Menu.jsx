@@ -2,8 +2,8 @@ import React from "react"
 
 const Menu=()=>{
     return(
-        <div>
-            <ul>
+        <div className="dBlock">
+            <ul className="mBlock">
                 <li><a href="">HOME</a></li>
                 <li><a href="">LOGIN</a></li>
                 <li><a href="">SIGN UP</a></li>

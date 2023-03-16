@@ -1,11 +1,8 @@
 import React from "react";
 import {createRoot} from "react-dom/client";
-import Nav from './Component/Nav';
-import Logo from './Component/Logo';
-import Menu from './Component/Menu';
-import App from './Component/App';
+//import Institute from './Props/Institute';
+import Movie from './States/Movie';
 
-createRoot(document.getElementById('root')).render(<Nav/>)
-createRoot(document.getElementById('root')).render(<Logo/>)
-createRoot(document.getElementById('root')).render(<Menu/>)
-createRoot(document.getElementById('root')).render(<App/>)
+//createRoot(document.getElementById('root')).render(<Institute/>)
+
+createRoot(document.getElementById('root')).render(<Movie/>)
