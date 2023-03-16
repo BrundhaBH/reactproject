@@ -1,0 +1,41 @@
+[
+    {
+        "MovieName":"Rajakumara",
+        "Language":"Kannada",
+        "Hero":"Puneethrajkumar",
+        "YOR":2017,
+        "Photo":"https://pbs.twimg.com/profile_images/1256153505452130312/edFTku62_400x400.jpg"
+    },
+
+    {
+        "MovieName":"VikranthRona",
+        "Language":"Kannada",
+        "Hero":"Sudeep",
+        "YOR":2022,
+        "Photo":"https://m.media-amazon.com/images/M/MV5BOWFjZGYxZDMtYTBhYy00YWVkLTk2NDUtMmE2NTAyM2Q0OTMyXkEyXkFqcGdeQXVyMjYwMDk5NjE@._V1_.jpg"
+    },
+
+    {
+        "MovieName":"Kranti",
+        "Language":"Kannada",
+        "Hero":"Darshan",
+        "YOR":2023,
+        "Photo":"https://w0.peakpx.com/wallpaper/205/690/HD-wallpaper-d-boss-yajamana-challenging-star-darshan-dboss-kannada.jpg"
+    },
+
+    {
+        "MovieName":"Kantara",
+        "Language":"Kannada",
+        "Hero":"Rishabshetty",
+        "YOR":2022,
+        "Photo":"https://m.media-amazon.com/images/M/MV5BZWU3ZTZlZWMtNGNiZS00ZDA1LTg0NzEtMzg1MGIzMmUxOTNiXkEyXkFqcGdeQXVyODA4MDA0Mjg@._V1_.jpg"
+    },
+
+    {
+        "MovieName":"KGF",
+        "Language":"Kannada",
+        "Hero":"Yash",
+        "YOR":2022,
+        "Photo":"https://i.pinimg.com/originals/1a/9c/a4/1a9ca40279b591151646436521d18ef2.jpg"
+    }
+]
